@@ -1,0 +1,1 @@
+//Elaborar un programa que cuente el tiempo que se tardo en ejecutar, el contenido del programa es indistinto.
